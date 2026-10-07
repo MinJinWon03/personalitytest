@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914079053375",
+    "project_id": "mobile2026-f9281",
+    "storage_bucket": "mobile2026-f9281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914079053375:android:ef6aedf2e98cbef80fea8a",
+        "android_client_info": {
+          "package_name": "com.mobile.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vsUGsimMI2olN_4dT4ybvqvgI7BHO-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
